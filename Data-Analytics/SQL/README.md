@@ -19,10 +19,13 @@ The Parks and Recreation database used in my SQL exercises was obtained through 
 
 The database was made publicly accessible through his GitHub repository for SQL learning and practice.
 
-#### Original source:
+### Original source:
 [Alex The Analyst – Parks and Recreation Database](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/Beginner%20-%20Parks_and_Rec_Create_db.sql)
 
+## MY Work
 
+I use this practice database to strengthen my SQL skills and develop my own queries and analysis projects.
 
-I will continue updating this folder with
-practical exercises and projects.
+My original exercises and analyses will be documented separately from any tutorial-based work. The original database and its sample records are not my own creation.
+
+This portfolio will be updated as I complete new exercises and projects.
