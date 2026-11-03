@@ -30,5 +30,5 @@ Analyzed employee salaries to identify individuals earning above the average sal
 - MySQL
 - MySQL Workbench
 
-# Downloads Database
-[Parks and Creation](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/Beginner%20-%20Parks_and_Rec_Create_db.sql)
+# Download Database
+[Parks and Recreation](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/Beginner%20-%20Parks_and_Rec_Create_db.sql)
