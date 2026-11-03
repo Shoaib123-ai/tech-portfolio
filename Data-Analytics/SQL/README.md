@@ -4,11 +4,10 @@ This folder contains my SQL practice exercises
 and projects as I develop my data analytics skills.
 
 ## Tools
-- MySQL
 - MySQL Workbench
 
 ## Topics
-- SQL Fundamentals
+- SQL Fundamentals 
 - Joins and Subqueries
 - Aggregate Functions
 - Window Functions
