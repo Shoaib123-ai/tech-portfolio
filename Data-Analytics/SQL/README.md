@@ -7,7 +7,7 @@ and projects as I develop my data analytics skills.
 - MySQL Workbench
 
 ## Topics
-- SQL Fundamentals 
+- [SQL Fundamentals](https://github.com/Shoaib123-ai/tech-portfolio/blob/main/Data-Analytics/SQL/fundamentals.sql) 
 - Joins and Subqueries
 - Aggregate Functions
 - Window Functions
