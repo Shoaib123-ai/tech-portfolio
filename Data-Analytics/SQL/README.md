@@ -19,7 +19,7 @@ The Parks and Recreation database used in my SQL exercises was obtained through 
 
 The database was made publicly accessible through his GitHub repository for SQL learning and practice.
 
-### Original source:
+#### Original source:
 [Alex The Analyst – Parks and Recreation Database](https://github.com/AlexTheAnalyst/MySQL-YouTube-Series/blob/main/Beginner%20-%20Parks_and_Rec_Create_db.sql)
 
 
